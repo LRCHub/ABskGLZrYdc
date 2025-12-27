@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "from the edge（feat. LiSA）",
+  "base_artist": "FictionJunction",
+  "createdAt": "2025-12-27T07:10:46.096880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From the Edge (feat. LiSA)",
+      "artist": "FictionJunction",
+      "has_synced": true,
+      "path": "select/01_From_the_Edge_(feat._LiSA)_FictionJunction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "from the edge( feat.LiSA)",
+      "artist": "FictionJunction",
+      "has_synced": true,
+      "path": "select/02_from_the_edge(_feat.LiSA)_FictionJunction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From the Edge (feat. LiSA)",
+      "artist": "FictionJunction",
+      "has_synced": true,
+      "path": "select/03_From_the_Edge_(feat._LiSA)_FictionJunction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "From the Edge (feat. LiSA)",
+      "artist": "FictionJunction",
+      "has_synced": true,
+      "path": "select/04_From_the_Edge_(feat._LiSA)_FictionJunction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "6 Feet From The Edge (feat. Scott Something or Other From Creed)",
+      "artist": "Malice",
+      "has_synced": false,
+      "path": "select/05_6_Feet_From_The_Edge_(feat._Scott_Something_or_Other_From_Creed)_Malice.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "from the edge (feat.LiSA)",
+      "artist": "FictionJunction",
+      "has_synced": false,
+      "path": "select/pl_01_from_the_edge_(feat.LiSA)_FictionJunction.txt"
+    }
+  ]
+}
